@@ -5,6 +5,6 @@ fn sum(a: i32, b: i32) -> i32 {
 }
 
 pub fn main() {
-    println!("01 - Solve Me First");
-    println!("{}", sum(2, 3));
+    println!("\n01 - Solve Me First");
+    println!(" sum => 2 + 3 = {}", sum(2, 3));
 }
