@@ -4,6 +4,7 @@ mod diagonal_difference;
 mod plus_minus;
 mod simple_array_sum;
 mod solve_me_first;
+mod staircase;
 
 pub fn main() {
     println!("\n* Running HackerRank challenges ...");
@@ -14,4 +15,5 @@ pub fn main() {
     a_very_big_sum::main();
     diagonal_difference::main();
     plus_minus::main();
+    staircase::main();
 }
