@@ -1,4 +1,5 @@
 mod factorial;
+mod hacker_rank;
 mod prime_numbers;
 
 fn run_factorial() {
@@ -75,4 +76,6 @@ fn main() {
     run_factorial();
 
     run_prime_numbers();
+
+    hacker_rank::main();
 }
