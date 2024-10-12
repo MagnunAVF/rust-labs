@@ -1,3 +1,4 @@
+mod compare_the_triplets;
 mod simple_array_sum;
 mod solve_me_first;
 
@@ -6,4 +7,5 @@ pub fn main() {
 
     solve_me_first::main();
     simple_array_sum::main();
+    compare_the_triplets::main();
 }
