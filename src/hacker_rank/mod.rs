@@ -1,5 +1,6 @@
 mod a_very_big_sum;
 mod compare_the_triplets;
+mod diagonal_difference;
 mod simple_array_sum;
 mod solve_me_first;
 
@@ -10,4 +11,5 @@ pub fn main() {
     simple_array_sum::main();
     compare_the_triplets::main();
     a_very_big_sum::main();
+    diagonal_difference::main();
 }
